@@ -15,7 +15,7 @@ Users are encouraged to read carefully the documentation for the `Paypal
 Website Payments Pro API`_
 
 .. _paypal-python: http://pypi.python.org/pypi/paypal
--- _Paypal Website Payments Pro API: https://www.x.com/community/ppx/documentation#wpp
+.. _Paypal Website Payments Pro API: https://www.x.com/community/ppx/documentation#wpp
 
 
 Work In Progress
