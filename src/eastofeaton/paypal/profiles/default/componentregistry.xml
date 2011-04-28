@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<componentregistry>
+  <utilities>
+    <utility
+      interface="eastofeaton.paypal.interfaces.IPaypalAPIUtility"
+      factory="eastofeaton.paypal.utility.PaypalAPIUtility"
+      />
+  </utilities>
+</componentregistry>
